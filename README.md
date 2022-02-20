@@ -2,6 +2,9 @@
 
 Implementation of genetic algorithm to find the best path on given input map.
 
+### TODO
+ - [ ] translate code to english
+
 ## assignment description
 
 Let us have a treasure hunter that moves in a world defined by a two-dimensional grid (see picture) and collects treasures that it finds along the way. It starts on the box marked with the letter S and can move in four different directions: up H, down D, right P and left L. It has a finite number of steps. His task is to collect as many treasures as possible. Only a position where the searcher and the treasure are in the same box is considered a treasure hunt. Adjacent fields are not taken into account. 
