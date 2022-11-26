@@ -3,7 +3,7 @@
 Implementation of genetic algorithm to find the best path on given input map.
 
 ### TODO
- - [ ] translate code to english
+ - [x] translate code to english
 
 ## assignment description
 
